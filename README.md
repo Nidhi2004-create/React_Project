@@ -51,4 +51,5 @@ npm run dev
 
 ## Notes
 
-- The deployment link can be added once deployed to Vercel, Netlify, or another hosting provider.
+- The deployment link
+-  https://react-project-2vtc.vercel.app/ 
